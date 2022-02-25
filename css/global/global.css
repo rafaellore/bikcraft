@@ -28,6 +28,7 @@ a {
 img {
   max-width: 100%;
   display: block;
+  height: auto;
 }
 /* Seletor - Seleciona os src das imagens que terminarem em jpg */
 img[src$=".jpg"] {
